@@ -34,4 +34,6 @@
 	/* Miscelaneous */
 	--border-radius: .25rem;
 	--hover-transition: all 150ms ease;
+
 }
+.pa2 { padding: var(--spacing-small); }
